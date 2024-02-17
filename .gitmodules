@@ -1,0 +1,21 @@
+[submodule "OpenWifi"]
+	path = OpenWifi
+	url = https://github.com/epiglottiss/zbm1.git
+[submodule "AccountSystem"]
+	path = AccountSystem
+	url = https://github.com/epiglottiss/zbm2.git
+[submodule "LectureManagementSystem"]
+	path = LectureManagementSystem
+	url = https://github.com/epiglottiss/zbh1.git
+[submodule "WeatherDiary"]
+	path = WeatherDiary
+	url = https://github.com/epiglottiss/zbh2.git
+[submodule "DividendsProject"]
+	path = DividendsProject
+	url = https://github.com/epiglottiss/zbh3.git
+[submodule "EcommerceProject"]
+	path = EcommerceProject
+	url = https://github.com/epiglottiss/zbh4.git
+[submodule "SWTestHistoryService"]
+	path = SWTestHistoryService
+	url = https://github.com/epiglottiss/testservice.git
